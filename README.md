@@ -1,6 +1,7 @@
-![GitLab Last Commit](https://img.shields.io/gitlab/last-commit/mirsakhawathossain%2Fradio-galaxy-classification)
-![GitLab Contributors](https://img.shields.io/gitlab/contributors/mirsakhawathossain%2Fradio-galaxy-classification)
-![GitLab License](https://img.shields.io/gitlab/license/mirsakhawathossain%2Fradio-galaxy-classification?color=%23FFA500)
+![GitHub License](https://img.shields.io/github/license/mirsakhawathossain/Radio-Galaxy-Classification)
+![GitHub contributors](https://img.shields.io/github/contributors/mirsakhawathossain/Radio-Galaxy-Classification)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/mirsakhawathossain/Radio-Galaxy-Classification)
+![GitHub Created At](https://img.shields.io/github/created-at/mirsakhawathossain/Radio-Galaxy-Classification)
 
 
 # Radio Galaxy classification
