@@ -8,10 +8,10 @@ from tqdm import tqdm
 import re
 
 # Load the catalog
-catalog = pd.read_csv("/home/ubuntu/catalog_first_VLA.csv")
+catalog = pd.read_csv("/home/ubuntu/catalog_first_VLA_18.csv")
 
 # Output directory
-output_dir = "/home/ubuntu/vla_first_fit/"
+output_dir = "/home/ubuntu/vla_first_fits_18/"
 os.makedirs(output_dir, exist_ok=True)
 
 # Survey name

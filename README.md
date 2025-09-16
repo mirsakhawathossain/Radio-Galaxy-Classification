@@ -1,4 +1,4 @@
-![GitHub License](https://img.shields.io/github/license/mirsakhawathossain/Radio-Galaxy-Classification)
+﻿![GitHub License](https://img.shields.io/github/license/mirsakhawathossain/Radio-Galaxy-Classification)
 ![GitHub contributors](https://img.shields.io/github/contributors/mirsakhawathossain/Radio-Galaxy-Classification)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/mirsakhawathossain/Radio-Galaxy-Classification)
 ![GitHub Created At](https://img.shields.io/github/created-at/mirsakhawathossain/Radio-Galaxy-Classification)
@@ -15,6 +15,8 @@ The goal of this project is to develop a python package for classifying differen
 * [Construction of an artificial (but realistic)](https://www.astropy.org/ccd-reduction-and-photometry-guide/v/dev/notebooks/01-03-Construction-of-an-artificial-but-realistic-image.html)
 * [Image Segmentation](https://photutils.readthedocs.io/en/latest/user_guide/segmentation.html)
 * [Remove image background with 5 lines of python code (General Image)](https://penscola.medium.com/remove-image-background-with-5-lines-of-python-code-b3ca7beba869)
+* [BYOL tutorial: self-supervised learning on CIFAR images with code in Pytorch](https://theaisummer.com/byol/)
+* [Neural Networks Intuitions: 10. BYOL- Paper Explanation](https://medium.com/swlh/neural-networks-intuitions-10-byol-paper-explanation-f8b1d6e83b1c) 
 
 # Simple Background Remove Code
 Removing the background in astronomical images using Astropy, particularly through its affiliated package photutils, involves estimating the background and then subtracting it from the data. Here's a common approach: Estimate Background Statistics with Sigma Clipping.
