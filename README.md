@@ -65,3 +65,7 @@ Custom Background Functions:
 
 **Cosmic Ray Removal:**
 Before background subtraction, it is often beneficial to remove cosmic rays, which can be done using packages like ```ccdproc``` or ```Astro-SCRAPPY```. [Reference Google](https://www.google.com/search?q=how+to+remove+background+in+astropy&ie=UTF-8)
+
+## Important Notebook Links
+* https://nbviewer.org/gist/dokeeffe/416e214f134d39db696c7fdac261964b#
+* [Photometry using astropy photutils and AAVSO comparison stars](https://www.aavso.org/photometry-astropy-photutils-reviewers-please)
